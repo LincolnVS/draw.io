@@ -7,6 +7,7 @@ shapes to draw.io
 
 To get ALU SHAPE on your project, you can do 2 things.
 
+- You can copy the alu_shape.xlm and import on www.draw.io
 - You can copy the code below and paste at Create Shape on extras (www.draw.io)
 
       <shape h="120" w="70" name="ALU" strokewidth="inherit">
@@ -34,7 +35,3 @@ To get ALU SHAPE on your project, you can do 2 things.
           <stroke/>
         </foreground>
       </shape>
-
-
-
-- You can copy the alu_shape.xlm and import on www.draw.io
