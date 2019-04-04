@@ -5,7 +5,7 @@ shapes to www.draw.io
 
 ![Alu Shape](https://github.com/lincolnvs/draw_io/blob/master/alu_shape.png)
 
-To get ALU SHAPE on your project, you can do 2 things.
+To get ALU SHAPE on your project, you can do 2 things:
 
 - You can copy the alu_shape.xlm and import on www.draw.io
 - You can copy the code below and paste at Create Shape on extras (www.draw.io)
